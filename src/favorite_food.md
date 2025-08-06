@@ -1,4 +1,4 @@
 # favorite food
 
 apple
-餃子
+チャーハン珍満
